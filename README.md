@@ -33,13 +33,23 @@ Follow these steps to get a copy of the project up and running on your local mac
    ```bash
    git clone https://github.com/Mnsamnis/Optimized_Search.git
    
-2. Navigate to the Project Directory:
+2. **Navigate to the Project Directory:**
 
-```bash
-cd optimized-search
+   ```bash
+   cd optimized-search
 
-3. npm install
+3. **If you are using npm:**
+
+   ```bash
+   npm install
    
-4. npm start
+4. **Start the Development Server:**
+
+   ```bash
+   npm start
   
-5. This will start the development server and open the application in your default browser at http://localhost:3000.
+5. **This will start the development server and open the application in your default browser at http://localhost:3000.**
+
+
+
+
