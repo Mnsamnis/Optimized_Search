@@ -35,8 +35,7 @@ Follow these steps to get a copy of the project up and running on your local mac
    
 2. Navigate to the Project Directory:
 
-bash
-Copy code
+```bash
 cd optimized-search
 
 3. npm install
